@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<!-- Mirrored from 3.22.194.228:3000/logo192.png by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Nov 2020 12:00:46 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="The official website of BankScape"
+    />
+    <link rel="stylesheet" href="../stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="apple-touch-icon" href="logo192.png" />
+    <link rel="manifest" href="manifest.json" />
+    <title>BankScape</title>
+  </head>
+  <body>
+    <noscript>Javascript is not enabled. Please enable it to view this page.</noscript>
+    <div id="root"></div>
+  <script src="static/js/bundle.js"></script><script src="static/js/0.chunk.js"></script><script src="static/js/main.chunk.js"></script></body>
+
+<!-- Mirrored from 3.22.194.228:3000/logo192.png by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Nov 2020 12:00:46 GMT -->
+</html>
